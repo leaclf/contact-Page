@@ -99,7 +99,7 @@ form {
   border: 0;
   outline: 0;
 }
-@media (min-width: 500px) {
+@media (min-width: 641px) {
   .user-info {
     grid-template-columns: repeat(2, 1fr);
     column-gap: 1rem;
